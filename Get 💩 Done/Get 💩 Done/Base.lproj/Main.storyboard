@@ -15,7 +15,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <prototypes>
-                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="cc7-vs-Ckz" customClass="TableViewCell" customModule="Get___Done" customModuleProvider="target">
+                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="TodoCell" id="cc7-vs-Ckz" customClass="TableViewCell" customModule="Get___Done" customModuleProvider="target">
                                 <rect key="frame" x="0.0" y="92" width="600" height="44"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="cc7-vs-Ckz" id="c33-zU-N9r">
@@ -31,10 +31,12 @@
                                     </subviews>
                                     <constraints>
                                         <constraint firstItem="bX9-6H-Z5m" firstAttribute="centerX" secondItem="c33-zU-N9r" secondAttribute="centerX" constant="-12.5" id="U5v-5v-tYZ"/>
-                                        <constraint firstItem="bX9-6H-Z5m" firstAttribute="centerX" secondItem="c33-zU-N9r" secondAttribute="centerX" constant="-12.5" id="Uex-SZ-ziM"/>
                                         <constraint firstItem="bX9-6H-Z5m" firstAttribute="centerY" secondItem="c33-zU-N9r" secondAttribute="centerY" constant="-1" id="at5-oh-vBf"/>
                                     </constraints>
                                 </tableViewCellContentView>
+                                <connections>
+                                    <outlet property="todoItemTextLabel" destination="bX9-6H-Z5m" id="0hE-Fy-VvL"/>
+                                </connections>
                             </tableViewCell>
                         </prototypes>
                         <connections>
