@@ -11,9 +11,9 @@ class Task {
     
     private var content : String
     private var completeDate : NSDate?
-    private var finished : Bool
+    var finished : Bool
     
-    init(content : String, date: NSDate) {
+    init(content : String) {
         self.content = content
         self.finished = false
     }
@@ -21,6 +21,10 @@ class Task {
     func markComplete() {
         self.finished = true
         self.completeDate = NSDate()
+    }
+    
+    func isFinished() -> Bool{
+        return finished
     }
     
     func shouldClear() -> Bool {

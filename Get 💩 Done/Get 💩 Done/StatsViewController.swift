@@ -9,11 +9,19 @@
 import UIKit
 
 class StatsViewController: UIViewController {
+    
+    @IBOutlet weak var number: UIButton!
+    
+    var taskFinishedLast24Hours : Int = 0;
 
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
+    }
+    
+    override func viewWillAppear(animated: Bool) {
+        number.setTitle(String(taskFinishedLast24Hours), forState: UIControlState.Normal)
     }
 
     override func didReceiveMemoryWarning() {

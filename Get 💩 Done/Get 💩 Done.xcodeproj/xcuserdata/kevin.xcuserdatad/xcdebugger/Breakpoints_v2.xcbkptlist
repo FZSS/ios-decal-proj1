@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Task.swift"
-            timestampString = "478595799.342852"
+            timestampString = "478610128.834696"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "10"
-            endingLineNumber = "10"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
             landmarkName = "Task"
             landmarkType = "3">
          </BreakpointContent>
@@ -47,115 +47,6 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "11"
             endingLineNumber = "11"
-            landmarkName = "ToDoListTableViewController"
-            landmarkType = "3">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Get &#x1f4a9; Done/ToDoListTableViewController.swift"
-            timestampString = "478596108.190519"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "13"
-            endingLineNumber = "13"
-            landmarkName = "ToDoListTableViewController"
-            landmarkType = "3">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Get___Done.ToDoListTableViewController.model.getter : Swift.Array&lt;Swift.String&gt;"
-                  moduleName = "Get &#x1f4a9; Done"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kevin/Documents/Berkeley/2016%20Spring/iOS%20Decal/Repo/ios-decal-proj1/Get%20%F0%9F%92%A9%20Done/Get%20%F0%9F%92%A9%20Done/ToDoListTableViewController.swift"
-                  timestampString = "478596132.103687"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "0"
-                  endingLineNumber = "0"
-                  offsetFromSymbolStart = "12">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Get___Done.ToDoListTableViewController.model.materializeForSet : Swift.Array&lt;Swift.String&gt;"
-                  moduleName = "Get &#x1f4a9; Done"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kevin/Documents/Berkeley/2016%20Spring/iOS%20Decal/Repo/ios-decal-proj1/Get%20%F0%9F%92%A9%20Done/Get%20%F0%9F%92%A9%20Done/ToDoListTableViewController.swift"
-                  timestampString = "478596132.104209"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "0"
-                  endingLineNumber = "0"
-                  offsetFromSymbolStart = "12">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Get___Done.ToDoListTableViewController.init (Get___Done.ToDoListTableViewController.Type)(style : __C.UITableViewStyle) -&gt; Get___Done.ToDoListTableViewController"
-                  moduleName = "Get &#x1f4a9; Done"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kevin/Documents/Berkeley/2016%20Spring/iOS%20Decal/Repo/ios-decal-proj1/Get%20%F0%9F%92%A9%20Done/Get%20%F0%9F%92%A9%20Done/ToDoListTableViewController.swift"
-                  timestampString = "478596132.104411"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "13"
-                  endingLineNumber = "13"
-                  offsetFromSymbolStart = "20">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Get___Done.ToDoListTableViewController.init (Get___Done.ToDoListTableViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; Get___Done.ToDoListTableViewController"
-                  moduleName = "Get &#x1f4a9; Done"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kevin/Documents/Berkeley/2016%20Spring/iOS%20Decal/Repo/ios-decal-proj1/Get%20%F0%9F%92%A9%20Done/Get%20%F0%9F%92%A9%20Done/ToDoListTableViewController.swift"
-                  timestampString = "478596132.104551"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "13"
-                  endingLineNumber = "13"
-                  offsetFromSymbolStart = "60">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Get___Done.ToDoListTableViewController.init (Get___Done.ToDoListTableViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Get___Done.ToDoListTableViewController&gt;"
-                  moduleName = "Get &#x1f4a9; Done"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kevin/Documents/Berkeley/2016%20Spring/iOS%20Decal/Repo/ios-decal-proj1/Get%20%F0%9F%92%A9%20Done/Get%20%F0%9F%92%A9%20Done/ToDoListTableViewController.swift"
-                  timestampString = "478596132.104698"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "13"
-                  endingLineNumber = "13"
-                  offsetFromSymbolStart = "20">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Get &#x1f4a9; Done/ToDoListTableViewController.swift"
-            timestampString = "478596287.926216"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "14"
-            endingLineNumber = "14"
             landmarkName = "ToDoListTableViewController"
             landmarkType = "3">
          </BreakpointContent>
